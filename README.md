@@ -1,6 +1,11 @@
 # VisitingCardFront
+The web version of the [Visiting Card](https://github.com/JBossOutreach/visiting-card-android). Like the app, the webpage enables users to create their own visiting cards and share them with others. Also, they can upload them to the server so they're safe.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+## Work progress
+Currently, this project is at a very early stage of development. There's only a simple landing page as of now. However, we are open to any kind of contributions and greatly appreciate them. Just make sure to open an Issue and state that you'll be working on this feature/fix, so others won't do the same work as you.
+
+![demo](https://i.imgur.com/RM5CC9c.png)
+*The Landing Page*
 
 ## Development server
 
@@ -25,3 +30,6 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
+
